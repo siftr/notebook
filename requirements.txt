@@ -77,7 +77,7 @@ jupyter-console==5.0.0
 jupyter-core==4.1.1
 leveldb==0.193
 lockfile==0.8
-lxml==3.4.2
+lxml==4.6.2
 MarkupSafe==0.23
 matplotlib==1.5.2
 mistune==0.7.3
