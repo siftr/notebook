@@ -55,7 +55,7 @@ grpc-google-pubsub-v1==0.8.1
 grpcio==1.0.0rc2
 h5py==2.6.0
 html5lib==0.999
-httplib2==0.9.2
+httplib2==0.19.0
 idna==0.9
 imageio==1.6
 images2gif==1.0.1
