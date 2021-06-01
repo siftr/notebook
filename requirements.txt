@@ -168,7 +168,7 @@ Twisted-Web==14.0.2
 Unidecode==0.4.19
 unity-lens-photos==1.0
 uritemplate==0.6
-urllib3==1.9.1
+urllib3==1.26.5
 vboxapi==1.0
 videodownloader==2.0.0
 virtualenv==15.0.3
