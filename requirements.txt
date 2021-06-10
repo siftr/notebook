@@ -26,7 +26,7 @@ decorator==4.0.10
 defer==1.0.6
 dill==0.2.5
 dirspec==13.10
-Django==1.5.8
+Django==2.2.24
 djangorestframework==3.1.0
 dlib==19.1.0
 docutils==0.13.1
