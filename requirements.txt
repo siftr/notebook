@@ -43,7 +43,7 @@ gaetestbed==0.12
 gax-google-logging-v2==0.8.1
 gax-google-pubsub-v1==0.8.1
 gevent==1.1.2
-Glances==2.8
+Glances==3.2.1
 google-api-python-client==1.5.1
 google-apitools==0.5.4
 google-cloud-dataflow==0.4.0
