@@ -20,7 +20,7 @@ ConcurrentLogHandler==0.9.1
 configparser==3.5.0
 cycler==0.10.0
 Cython==0.24.1
-dask==0.11.0
+dask==2021.10.0
 debtagshw==0.1
 decorator==4.0.10
 defer==1.0.6
